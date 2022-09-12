@@ -1,20 +1,26 @@
+<p align="center">Si quieres la versión en Español haz click aquí!</p>
 <p align="center"><img align="center" src="https://i.ibb.co/W0G9Xv1/Hi-there-I-m-karoli-1.jpg" alt="Hi-there-I-m-karoli-1" border="0"></p>
 <h1 align="center">Hi 👋, I'm Karoli</h1>
-<h3 align="center">A web developer</h3>
 
-- 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
+<h3 align="left">📄 About me</h3>
 
-- 📫 How to reach me **karoliquijada@gmail.com**
+Hey, welcome to my github. I'm a web developer who (kind of) loves Javascript. My first language is Spanish but as you can see I'm proficient in English. I love learning new things and working on solving challenges. At the moment, I'm working on getting my degree as a **Computer Engineer**  (almost done!!) and at the same time taking courses to improve my skills as a developer.
 
-- 📄 Know about my experiences [something](something)
+Right now my focus is on Frontend Web Development, but in the future I would like to explore AI and DevOps.
+ 
+<h3 align="left">👨‍💻 Projects</h3>
+Here you cand find some of my projects. Go check it out.
+<h4 align="left"> 	🚀Portfolio</h4>
+<h4 align="left"> 	🚀Rick & Morty API</h4>
+<h4 align="left"> 	🚀Calculator API</h4>
+<h4 align="left"> 	🚀Twitter Clone</h4>
 
-- ⚡ Fun fact **something**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/igirlicode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="igirlicode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/karoliquijada/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karoliquijada/" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<h3 align="left">📭Connect with me</h3>
+I'm not that much into social media, but I'm always sharing what I learn on twitter. You can also add me on LinkedIn so we can keep in touch.
+
+
+<h3 align="left">🔨Languages and Tools</h3>
+
+These are the languages ​​and tools I work with the most. However, I'm always open to learn new ways to create amazing projects.
