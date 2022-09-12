@@ -20,12 +20,6 @@ Here you cand find some of my projects. Go check it out.
 
 <h4 align="left"> 	🚀Twitter Clone</h4>
 
-
-
-<h3 align="left">📭Connect with me</h3>
-I'm not that much into social media, but I'm always sharing what I learn on twitter. You can also add me on LinkedIn so we can keep in touch.
-
-
 <h3 align="left">🔨Languages and Tools</h3>
 
 These are the languages ​​and tools I work with the most. However, I'm always open to learn new ways to create amazing projects.
