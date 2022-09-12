@@ -7,10 +7,10 @@
 Hey, welcome to my github. I'm a web developer who (kind of) loves Javascript. My first language is Spanish but as you can see I'm proficient in English. I love learning new things and working on solving challenges. At the moment, I'm working on getting my degree as a **Computer Engineer**  (almost done!!) and at the same time taking courses to improve my skills as a developer.
 
 Right now my focus is on Frontend Web Development, but in the future I would like to explore AI and DevOps.
+<h4 align="left"> 	🚀Portfolio [https://igirlicode.netlify.app/]</h4>
  
 <h3 align="left">👨‍💻 Projects</h3>
 Here you cand find some of my projects. Go check it out.
-<h4 align="left"> 	🚀Portfolio </h4>
 <h4 align="left"> 	🚀Rick & Morty API</h4>
 <h4 align="left"> 	🚀Calculator app  [https://calculator-app-igirlicode.netlify.app/]</h4>
 
