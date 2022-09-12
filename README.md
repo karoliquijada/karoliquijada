@@ -12,7 +12,7 @@ Right now my focus is on Frontend Web Development, but in the future I would lik
 Here you cand find some of my projects. Go check it out.
 <h4 align="left"> 	🚀Portfolio</h4>
 <h4 align="left"> 	🚀Rick & Morty API</h4>
-<h4 align="left"> 	🚀Calculator API</h4>
+<h4 align="left"> 	🚀Calculator app</h4>
 <h4 align="left"> 	🚀Twitter Clone</h4>
 
 
