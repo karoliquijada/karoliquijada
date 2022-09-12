@@ -11,7 +11,7 @@ Right now my focus is on Frontend Web Development, but in the future I would lik
  
 <h3 align="left">👨‍💻 Projects</h3>
 Here you cand find some of my projects. Go check it out.
-<h4 align="left"> 	🚀Rick & Morty API</h4>
+<h4 align="left"> 	🚀Rick & Morty Wiki [https://rick-and-morty-wiki-igirlicode.netlify.app/]</h4> 
 <h4 align="left"> 	🚀Calculator app  [https://calculator-app-igirlicode.netlify.app/]</h4>
 
 -Description: a simple calculator app from Frontend Mentor. For this challenge I implemented a 3 state toggle to change the theme from light mode, to dark mode, to a purple theme.
