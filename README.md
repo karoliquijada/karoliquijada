@@ -1,6 +1,5 @@
 <p align="center">Si quieres la versión en Español haz click aquí!</p>
-<p align="center"><img align="center" src="https://i.ibb.co/W0G9Xv1/Hi-there-I-m-karoli-1.jpg" alt="Hi-there-I-m-karoli-1" border="0"></p>
-<h1 align="center">Hi 👋, I'm Karoli</h1>
+<h1 align="left">Hi 👋, I'm Karoli</h1>
 
 <h3 align="left">📄 About me</h3>
 
@@ -11,15 +10,16 @@ Right now my focus is on Frontend Web Development, but in the future I would lik
  
 <h3 align="left">👨‍💻 Projects</h3>
 Here you cand find some of my projects. Go check it out.
-<h4 align="left"> 	🚀Rick & Morty Wiki [https://rick-and-morty-wiki-igirlicode.netlify.app/]</h4> 
-<h4 align="left"> 	🚀Calculator app  [https://calculator-app-igirlicode.netlify.app/]</h4>
-
--Description: a simple calculator app from Frontend Mentor. For this challenge I implemented a 3 state toggle to change the theme from light mode, to dark mode, to a purple theme.
-
--Tech: React using theme provider, Styled Components. 
-
-<h4 align="left"> 	🚀Twitter Clone</h4>
+<ul>
+ <li><h4 align="left"> 	🚀Rick & Morty Wiki [https://rick-and-morty-wiki-igirlicode.netlify.app/]</h4> </li>
+ <li><h4 align="left"> 	🚀Calculator app  [https://calculator-app-igirlicode.netlify.app/]</h4></li> 
+</ul>
 
 <h3 align="left">🔨Languages and Tools</h3>
 
 These are the languages ​​and tools I work with the most. However, I'm always open to learn new ways to create amazing projects.
+<ul>
+ <li>The basics: JavaScript ES6+, HTML, CSS. MySQL</li>
+ <li>Frameworks: ReactJS, Django Rest</li>
+</ul>
+
