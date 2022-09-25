@@ -23,6 +23,6 @@ Here you cand find some of my projects. Go check it out.
 These are the languages ​​and tools I work with the most. However, I'm always open to learn new ways to create amazing projects.
 <ul>
  <li>The basics: JavaScript ES6+, HTML, CSS. MySQL</li>
- <li>Frameworks: ReactJS, Django Rest</li>
+ <li>Tools: ReactJS, Django Rest Framework, Graph QL</li>
 </ul>
 
