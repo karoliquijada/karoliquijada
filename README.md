@@ -14,7 +14,6 @@ Right now my focus is on Frontend Web Development, but in the future I would lik
 Here you cand find some of my projects. Go check it out.
 <ul>
  <li><h4 align="left"> 	🚀Rick & Morty Wiki [https://rick-and-morty-wiki-igirlicode.netlify.app/]</h4> </li>
- <li><h4 align="left"> 	🚀Calculator app  [https://calculator-app-igirlicode.netlify.app/]</h4></li> 
 </ul>
 
 <h3 align="left">🔨Languages and Tools</h3>
