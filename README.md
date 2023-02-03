@@ -1,4 +1,3 @@
-<p align="center">Si quieres la versión en Español haz click aquí!</p>
 <h1 align="left">Hi 👋, I'm Karoli</h1>
 
 <h3 align="left">📄 About me</h3>
