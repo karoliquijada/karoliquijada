@@ -7,13 +7,6 @@ Hey, welcome to my github. I'm a web developer who (kind of) loves Javascript. M
 
 Right now my focus is on Frontend Web Development, but in the future I would like to explore AI and DevOps.
 <h4 align="left"> 	🚀Portfolio [https://karoliquijada.netlify.app/]</h4>
- 
-<h3 align="left">👨‍💻 Projects</h3>
-<hr>
-Here you cand find some of my projects. Go check it out.
-<ul>
- <li><h4 align="left"> 	🚀Rick & Morty Wiki [https://rick-and-morty-wiki-igirlicode.netlify.app/]</h4> </li>
-</ul>
 
 <h3 align="left">🔨Languages and Tools</h3>
 <hr>
